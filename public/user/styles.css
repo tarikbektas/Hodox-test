@@ -1,0 +1,58 @@
+#dragContainer {
+    display: flex;
+  }
+  
+  .draggable {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #ccc;
+    text-align: center;
+    line-height: 100px;
+    cursor: move;
+  }
+  
+
+ 
+  body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+ 
+
+  .main-cart {
+    font-family: sans-serif;
+    font-family: "Quicksand", sans-serif;
+    color: #333;
+    text-indent: 1.5em;
+    font-size: 1.1em;
+    background-color: #eee;
+    width: 96vw;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+   
+   
+   
+   
+   
+  .item {
+    height: 2rem;
+   text-align: left;
+    position: relative;
+    background-color: #6195cd;
+    color: #fff;
+    margin: 16px;
+    border-radius: 999px;
+    line-height: 2em;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+      rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+  }
+   
+  
+
+
+   

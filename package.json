@@ -10,11 +10,24 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
     "express-ejs-layouts": "^0.3.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^8.0.3",
     "nodemon": "^3.0.1",
-    "path": "^0.12.7"
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "tree-helper": "^1.4.14",
+    "vue": "^3.4.15",
+    "vue-draggable": "^2.0.6",
+    "vue-draggable-nested-tree": "^2.3.0-beta.1",
+    "vue-nestable": "^2.6.0",
+    "vuedraggable": "^2.24.3"
   }
 }
